@@ -1,0 +1,8 @@
+Flask==2.1.1
+google-cloud-bigquery==3.4.0
+Werkzeug==2.1.2
+joblib
+pandas
+google-cloud-storage
+scikit-learn
+numpy==1.21.6
